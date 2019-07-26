@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Freight-TextBook';
+  src: url('Freight-TextBook.eot');
+  src: url('Freight-TextBook.eot?#iefix') format('embedded-opentype'),
+       url('Freight-TextBook.svg#Freight-TextBook') format('svg'),
+       url('Freight-TextBook.ttf') format('truetype'),
+       url('Freight-TextBook.woff') format('woff'),
+       url('Freight-TextBook.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
